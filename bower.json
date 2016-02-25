@@ -1,0 +1,29 @@
+{
+  "name": "requirejs-svg",
+  "version": "0.0.1",
+  "homepage": "https://github.com/hippich/requirejs-svg",
+  "authors": [
+    "Pavel Karoukin <pavel@karoukin.us>"
+  ],
+  "description": "RequireJS loader plugin for loading SVG files",
+  "main": "svg.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "amd",
+    "requirejs",
+    "svg"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs-text": "~2.0.14"
+  }
+}
